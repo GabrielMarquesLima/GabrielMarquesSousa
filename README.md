@@ -1,7 +1,7 @@
 <h1>Olá! Me chamo Gabriel Marques, bem vindo ao meu perfil !👋</h1>
 
 - 🔭 Estou procurando oportunidades em TI e trabalho com contabilidade.
-- 💻 Estudando: JavaScript ...
+- 💻 Estudando: JavaScript, HTML, CSS e Figma
 
 ##
 
