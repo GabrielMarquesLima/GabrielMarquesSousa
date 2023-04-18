@@ -6,7 +6,6 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarquesSousa&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarquesSousa)](https://github.com/GabrielMarquesSousa/github-readme-stats)
 ##
 
 <h1> 💻 Estou estudando ou já sei usar:</h1>
